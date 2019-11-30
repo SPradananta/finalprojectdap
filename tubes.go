@@ -1,6 +1,6 @@
-/**     DATA KELOMPOK */
-/*     Judul 			: Aplikasi Inventori 2 
-	   Anggota Kelompok : 1301190243 Muhammad Satria Pradananta
+/**    DATA KELOMPOK */
+/*     Judul 		: Aplikasi Inventori 2 
+       Anggota Kelompok : 1301190243 Muhammad Satria Pradananta
 	                      1301190437 Rifqi Ramadhan
 */
 package main
